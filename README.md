@@ -1,0 +1,2 @@
+# sddm
+SDDM configuration files
