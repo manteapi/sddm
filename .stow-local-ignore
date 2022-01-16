@@ -1,8 +1,0 @@
-\.git
-\.gitmodules
-\.gitignore
-^/README.*
-^/LICENSE
-install.sh
-uninstall.sh
-tags

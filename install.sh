@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo stow -t /usr/share/sddm sddm
-sudo stow -t /etc/sddm.conf.d sddm.conf.d
+sudo cp -r ./sddm /usr/share
+sudo cp -r ./sddm.conf.d /etc
