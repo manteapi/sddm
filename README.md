@@ -1,2 +1,1 @@
-# sddm
-SDDM configuration files
+Simple Desktop Display Manager configuration files
