@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rm -r /usr/share/sddm/*
-rm -r /etc/sddm.conf.d/*
+sudo rm -r /usr/share/sddm/*
+sudo rm -r /etc/sddm.conf.d/*
